@@ -1,0 +1,42 @@
+/* English */
+
+/* Menu Items */
+"Snap Left" = "Snap Left";
+"Snap Right" = "Snap Right";
+"Maximize" = "Maximize";
+"Center" = "Center";
+"Settings..." = "Settings...";
+"Quit" = "Quit";
+
+/* Settings Headers */
+"Global Hotkeys" = "Global Hotkeys";
+"Permissions" = "Permissions";
+"Startup" = "Startup";
+"Appearance" = "Appearance";
+
+/* Permissions */
+"Accessibility Permission Granted" = "Accessibility Permission Granted";
+"Permission Required" = "Permission Required";
+"Magneto has necessary permissions to manage windows." = "Magneto has necessary permissions to manage windows.";
+"Magneto needs accessibility permissions to move and resize windows." = "Magneto needs accessibility permissions to move and resize windows.";
+"Open System Settings" = "Open System Settings";
+
+/* General */
+"Launch at Login" = "Launch at Login";
+"General" = "General";
+"Shortcuts" = "Shortcuts";
+"About" = "About";
+
+/* Appearance */
+"System" = "System";
+"Light" = "Light";
+"Dark" = "Dark";
+"Color Theme" = "Color Theme";
+
+/* Shortcuts */
+"Type Shortcut (Esc to Cancel)..." = "Type Shortcut (Esc to Cancel)...";
+"None" = "None";
+"Reset to Defaults" = "Reset to Defaults";
+
+/* About */
+"Copyright © 2026 Celil Öz" = "Copyright © 2026 Celil Öz";

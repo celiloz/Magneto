@@ -1,0 +1,42 @@
+/* Turkish */
+
+/* Menu Items */
+"Snap Left" = "Sola Yasla";
+"Snap Right" = "Sağa Yasla";
+"Maximize" = "Tam Ekran";
+"Center" = "Ortala";
+"Settings..." = "Ayarlar...";
+"Quit" = "Çıkış";
+
+/* Settings Headers */
+"Global Hotkeys" = "Klavye Kısayolları";
+"Permissions" = "İzinler";
+"Startup" = "Başlangıç";
+"Appearance" = "Görünüm";
+
+/* Permissions */
+"Accessibility Permission Granted" = "Erişilebilirlik İzni Verildi";
+"Permission Required" = "İzin Gerekli";
+"Magneto has necessary permissions to manage windows." = "Magneto pencereleri yönetmek için gerekli izinlere sahip.";
+"Magneto needs accessibility permissions to move and resize windows." = "Magneto pencereleri taşımak ve boyutlandırmak için erişilebilirlik iznine ihtiyaç duyar.";
+"Open System Settings" = "Sistem Ayarlarını Aç";
+
+/* General */
+"Launch at Login" = "Girişte Başlat";
+"General" = "Genel";
+"Shortcuts" = "Kısayollar";
+"About" = "Hakkında";
+
+/* Appearance */
+"System" = "Sistem";
+"Light" = "Açık";
+"Dark" = "Koyu";
+"Color Theme" = "Renk Teması";
+
+/* Shortcuts */
+"Type Shortcut (Esc to Cancel)..." = "Kısayol Girin (İptal için Esc)...";
+"None" = "Yok";
+"Reset to Defaults" = "Varsayılanlara Sıfırla";
+
+/* About */
+"Copyright © 2026 Celil Öz" = "Telif Hakkı © 2026 Celil Öz";
