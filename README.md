@@ -1,50 +1,74 @@
+<div align="center">
+
 # Magneto 🧲
 
-Magneto is a lightweight, open-source window manager for macOS. It allows you to quickly snap windows to different positions on your screen using global keyboard shortcuts or the menu bar.
+**The Ultimate Lightweight Window Manager for macOS**
 
-## Features ✨
+[![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat&logo=apple)](https://www.apple.com/macos)
+[![Language](https://img.shields.io/badge/language-Swift-orange.svg?style=flat&logo=swift)](https://developer.apple.com/swift/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
--   **Window Snapping**: Easily snap windows to the **Left**, **Right**, **Center**, or **Maximize** them.
--   **Global Hotkeys**: Control your windows from anywhere using customizable shortcuts.
--   **Menu Bar App**: Access controls and settings directly from the macOS menu bar.
--   **Customizable Shortcuts**: Record your own preferred key combinations in Settings.
--   **Appearance Themes**: Choose between **Light**, **Dark**, or **System** appearance.
--   **Localization**: Fully localized in **English** 🇺🇸 and **Turkish** 🇹🇷.
+Magneto empowers you to manage your workspace with lightning speed. Snap, resize, and organize windows effortlessly using customizable global hotkeys.
 
-### Via Homebrew
+</div>
+
+---
+
+## ✨ Key Features
+
+- **⚡️ Lightning Fast Snapping**: Instantly snap windows to Left, Right, Center, or Maximize.
+- **⌨️ Global Hotkeys**: Customize shortcuts to fit your workflow perfectly.
+- **🌗 Appearance Modes**: Seamless support for Light, Dark, and System themes.
+- **🌍 Localization**: Native support for **English** 🇺🇸 and **Turkish** 🇹🇷.
+- **🛡 Privacy Focused**: No data collection, fully open-source.
+
+---
+
+## 📦 Installation
+
+### Option 1: Homebrew (Recommended)
+
+The easiest way to install Magneto is via [Homebrew](https://brew.sh/).
 
 ```bash
 brew tap celiloz/magneto
 brew install --cask magneto
 ```
 
-### Manual Installation
-1.  Clone the repository.
+### Option 2: Manual Build
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/celiloz/Magneto.git
+    ```
 2.  Open `Magneto.xcodeproj` in Xcode.
-3.  Build and Run the application.
+3.  Build and Run (Cmd+R).
 
-## Usage 🚀
+---
 
-### Permissions
-On first launch, Magneto will request **Accessibility Permissions** to control your windows.
-1.  Click "Open System Settings" when prompted.
-2.  Enable the toggle for "Magneto".
+## 🚀 Getting Started
 
-### Default Shortcuts
+### 1. Permissions
+Upon first launch, Magneto requires **Accessibility Permissions** to control your windows.
+> System Settings → Privacy & Security → Accessibility → Enable **Magneto**
 
-| Action | Default Shortcut |
-| :--- | :--- |
-| **Snap Left** | `⌃` + `⌥` + `←` (Ctrl + Opt + Left) |
-| **Snap Right** | `⌃` + `⌥` + `→` (Ctrl + Opt + Right) |
-| **Maximize** | `⌃` + `⌥` + `↑` (Ctrl + Opt + Up) |
-| **Center** | `⌃` + `⌥` + `↓` (Ctrl + Opt + Down) |
+### 2. Default Shortcuts
 
-> **Note**: You can change these shortcuts in **Settings > Shortcuts**.
+| Action | Shortcut | Description |
+| :--- | :--- | :--- |
+| **Snap Left** | `⌃` + `⌥` + `←` | Resizes window to the left half |
+| **Snap Right** | `⌃` + `⌥` + `→` | Resizes window to the right half |
+| **Maximize** | `⌃` + `⌥` + `↑` | Fills the entire screen |
+| **Center** | `⌃` + `⌥` + `↓` | Centers and resizes to 2/3 |
 
-## Author 👨‍💻
+> 💡 **Tip**: You can record your own custom shortcuts in **Settings > Shortcuts**.
+
+---
+
+## 👨‍💻 Author
 
 **Celil Öz**
 
-## License 📄
+## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
