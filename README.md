@@ -11,8 +11,14 @@ Magneto is a lightweight, open-source window manager for macOS. It allows you to
 -   **Appearance Themes**: Choose between **Light**, **Dark**, or **System** appearance.
 -   **Localization**: Fully localized in **English** 🇺🇸 and **Turkish** 🇹🇷.
 
-## Installation 📦
+### Via Homebrew
 
+```bash
+brew tap celiloz/magneto
+brew install --cask magneto
+```
+
+### Manual Installation
 1.  Clone the repository.
 2.  Open `Magneto.xcodeproj` in Xcode.
 3.  Build and Run the application.
